@@ -11,6 +11,7 @@ namespace githubtest
         {
             //angels rock
             //this is another test mang
+            string a = "a";
         }
     }
 }
